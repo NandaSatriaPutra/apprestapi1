@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi1",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandaSatriaPutra/apprestapi1.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "Nanda Satria Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NandaSatriaPutra/apprestapi1/issues"
+  },
+  "homepage": "https://github.com/NandaSatriaPutra/apprestapi1#readme"
+}
